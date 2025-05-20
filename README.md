@@ -151,7 +151,7 @@
       <img src="https://img.shields.io/badge/Direct%20Missive-Support@shiftband.ir-8A2BE2?style=for-the-badge&logo=MicrosoftOutlook&logoColor=white" alt="Email Me">
     </a>
     <a href="https://ble.ir/ali_mashhadi86" target="_blank">
-      <img src="https://img.shields.io/badge/Bale%20Channel-%40ali_mashhadi86-00BFFF?style=for-the-badge&logo=telegram&logoColor=white" alt="Bale Messenger (@ali_mashhadi86)">
+      <img src="https://img.shields.io/badge/Bale%20PV-%40ali_mashhadi86-00BFFF?style=for-the-badge&logo=telegram&logoColor=white" alt="Bale Messenger (@ali_mashhadi86)">
     </a>
   </p>
 </div>
